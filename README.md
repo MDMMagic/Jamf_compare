@@ -111,14 +111,6 @@ A dedicated read-only API role is recommended — the script never writes to Jam
 
 ---
 
-## Example report
-
-![Report screenshot showing two computer cards, stat bar, and filterable policy table](https://github.com/user-attachments/assets/placeholder)
-
-> Replace the placeholder above with an actual screenshot once uploaded to GitHub.
-
----
-
 ## License
 
 See [LICENSE](LICENSE).
