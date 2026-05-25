@@ -1,4 +1,4 @@
-# jamf Compare
+# Jamf Compare
 
 Compare two Jamf Pro computer records side-by-side and generate a self-contained HTML report showing which policies, computer groups, and configuration profiles each machine has — and what differs between them.
 
